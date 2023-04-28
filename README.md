@@ -1,6 +1,6 @@
 # used-cars-dataset
 
-This notebook uses prettified Kaggle [used cars dataset](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices). Dataset contains data on car ads from eBay-Kleinanzeigen.
+This notebook uses prettified Kaggle [used cars dataset](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices). Dataset contains car ads from eBay-Kleinanzeigen.
 
 The task is to predict car price with minimum error and minimum model working time. Task metric is RMSE.
 
@@ -16,7 +16,7 @@ The task is to predict car price with minimum error and minimum model working ti
 `RegistrationMonth` | Month of car registration  
 `FuelType` | Type of fuel  
 `Brand` | Brand of car  
-`Repair` | Was the car under repair or not  
+`Repair` | Has the car been repaired or not 
 `DateCreated` | Date of creation of the questionnaire  
 `NumberOfPictures` | The number of photos of the car  
 `PostalCode` | Postal code of the profile owner (user)  
